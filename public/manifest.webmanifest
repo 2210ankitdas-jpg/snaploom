@@ -1,0 +1,17 @@
+{
+  "name": "SnapLoom",
+  "short_name": "SnapLoom",
+  "description": "Cross-platform ephemeral messaging, live calling, customizable avatars, 24-hour stories, and interactive camera lenses.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#FACC15",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

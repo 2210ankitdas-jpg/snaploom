@@ -1,0 +1,6 @@
+{
+  "name": "SnapLoom",
+  "description": "Cross-platform ephemeral messaging, live voice and video calling, customizable avatars, 24-hour stories, and interactive camera lenses.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
